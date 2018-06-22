@@ -11,5 +11,3 @@ Digital Business Management ist ein Weiterbildungsprogramm für Professionals. D
 <!-- zuviel Text 
 Digital Business Management umfasst ein hochwertiges und berufsbegleitendes Studium zu Kernthemen der digitalen Transformation. Weitere Infos auf http://www.hhz.de/master/digital-business-management/.
 -->
-
-ToDo: Video
