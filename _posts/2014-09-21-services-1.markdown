@@ -6,7 +6,7 @@ title: M.Sc. Services Computing (SCM)
 description: |
 ---
   
-  Services Computing vermittelt die IT-basierten Methoden sowie das technische und strategische Know-How für die Digitalisierung von Unternehmen. Alle Details auf http://www.hhz.de/master/services-computing/.
+  Services Computing vermittelt die IT-basierten Methoden sowie das technische und strategische Know-How für die Digitalisierung von Unternehmen. <a href="http://www.hhz.de/master/services-computing/">Details&gt;</a>
   
   Computer und informationsverarbeitende Prozesse sind primäre Produktionsmittel der Wertschöpfung. Themenbereiche wie Internet of Things (Iot), serviceorientierte Architekturen (SOA), Cloud Computing oder Business Process Modeling werden im Studiengang diskutiert. Darüber hinaus geht es um die Integration neuartiger Ansätze der Informatik in geschäftsrelevante Strategien.
   
