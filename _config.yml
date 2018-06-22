@@ -23,12 +23,21 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    icon: twitter
-    url: https://twitter.com/hhz_bb
   - title: Mail
     icon: envelope
     url: mailto:info@hhz.de
+  - title: twitter
+    icon: twitter
+    url: https://twitter.com/hhz_bb
+  - title: facebook
+    icon: facebook
+    url: https://www.facebook.com/boeblingen.hhz
+  - title: instagram
+    icon: instagram
+    url: https://www.instagram.com/hhz_bb
+  - title: youtube
+    icon: youtube
+    url: https://www.youtube.com/channel/UCrZIUkPESAzAQKboKxzjIIA
 #  - title: github
 #    url: https://github.com/IronSummitMedia/startbootstrap
 #  - title: linkedin
