@@ -6,6 +6,9 @@ title: M.Sc. Digital Business Management (DBM)
 description: |
 ---
 
-Digital Business Management ist ein Weiterbildungsprogramm für Professionals. Der Master of Science ist dual, praxisorientiert und an der Schnittstelle zwischen Management und IT positioniert. Digital Business Management umfasst ein hochwertiges und berufsbegleitendes Studium zu Kernthemen der digitalen Transformation. Weitere Infos auf http://www.hhz.de/master/digital-business-management/.
+Digital Business Management ist ein Weiterbildungsprogramm für Professionals. Der Master of Science ist dual, praxisorientiert und an der Schnittstelle zwischen Management und IT positioniert. 
+<!-- zuviel Text 
+Digital Business Management umfasst ein hochwertiges und berufsbegleitendes Studium zu Kernthemen der digitalen Transformation. Weitere Infos auf http://www.hhz.de/master/digital-business-management/.
+-->
 
 ToDo: Video
