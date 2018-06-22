@@ -2,15 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: https://itmasterdigital.github.io
 title: ITMaster.digital
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+email: info@hhz.de
+author: Christian Decker
+description: Services Computing ist ein IT Masterstudiengang am Herman Hollerith Zentrum Böblingen für eine berufsbegleitende Ausbildung in innovativen Kernthemen der Wirtschaftsinformatik für digitale Unternehmen und das Digital Business.
+copyright: 'Copyright &copy; 2018 Christian Decker. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -27,8 +24,10 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+    url: https://twitter.com/hhz_bb
+  - title: mail
+    url: mailto:info@hhz.de
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
+#  - title: linkedin
+#    url: 
