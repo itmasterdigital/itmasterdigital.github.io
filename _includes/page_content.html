@@ -1,8 +1,10 @@
-<section id="scm">
+<section id="programs">
 <!-- Page Content -->
 {% for post in site.posts reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
+  
+    <section id="{{ post.category }}">
     <div class="content-section-a">
 
         <div class="container">
@@ -24,8 +26,11 @@
 
     </div>
     <!-- /.content-section-a -->
+    </section>
+    <!-- /.section -->
     {% else %}
 
+    <section id="{{ post.category }}">
     <div class="content-section-b">
 
         <div class="container">
@@ -47,6 +52,8 @@
 
     </div>
     <!-- /.content-section-b -->
+    </section>
+    <!-- /.section -->
     {% endif %}
 {% endfor %}
 </section>
