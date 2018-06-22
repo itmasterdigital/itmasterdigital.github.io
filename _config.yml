@@ -24,8 +24,10 @@ permalink: pretty
 
 social:
   - title: twitter
+    icon: twitter
     url: https://twitter.com/hhz_bb
-  - title: envelope
+  - title: Mail
+    icon: envelope
     url: mailto:info@hhz.de
 #  - title: github
 #    url: https://github.com/IronSummitMedia/startbootstrap
