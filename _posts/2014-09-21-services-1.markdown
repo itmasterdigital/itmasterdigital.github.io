@@ -1,6 +1,7 @@
 ---
 layout: default
 img: ipad.png
+ytvideo: https://www.youtube-nocookie.com/embed/7XBdhjgUAJQ
 category: scm
 title: M.Sc. Services Computing (SCM)
 description: |
@@ -10,7 +11,3 @@ description: |
 <!-- zuviel text
   Computer und informationsverarbeitende Prozesse sind primäre Produktionsmittel der Wertschöpfung. Themenbereiche wie Internet of Things (Iot), serviceorientierte Architekturen (SOA), Cloud Computing oder Business Process Modeling werden im Studiengang diskutiert. Darüber hinaus geht es um die Integration neuartiger Ansätze der Informatik in geschäftsrelevante Strategien.
 -->
-  
-ToDo: Video einbinden
-  
- 
