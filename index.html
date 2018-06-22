@@ -3,3 +3,25 @@ layout: default
 title: IT Master.digital
 subTitle: IT Masterstudium in Böblingen
 ---
+
+    <button class="visible" id="chat-button" onclick="openChatbot()">Chat</button>
+    <div id="herman-container">
+        <iframe id="herman" class="herman-frame" src='https://herman-client.glitch.me'></iframe>
+        <button type="button" id="close" onclick="closeChatbot()">Schließen</button>
+    </div>
+    
+<script language="javascript" type="text/javascript">
+    function openChatbot() {
+        document.getElementById('chat-button').classList.remove('visible');
+        document.getElementById('close').style.visibility = 'visible';   
+        var frame = document.getElementById('herman-container');
+        frame.classList.add('active');   
+    }  
+    
+    function closeChatbot() {
+       var frame = document.getElementById('herman-container');
+        frame.classList.remove('active'); 
+        document.getElementById('chat-button').classList.add('visible');
+        document.getElementById('close').style.visibility = 'hidden'; 
+    }  
+</script>
