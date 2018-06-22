@@ -1,3 +1,7 @@
+---
+layout:
+---
+
 <body>
 <html>
 <h2>Impressum</h2>
