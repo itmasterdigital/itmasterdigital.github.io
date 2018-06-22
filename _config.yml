@@ -22,6 +22,11 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
+apply:
+  - title: Bewerben bis 15.Juli 2018
+    icon: address-book
+    url: https://hisinone.reutlingen-university.de/
+
 social:
   - title: Mail
     icon: envelope
