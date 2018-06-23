@@ -1,7 +1,7 @@
 ---
 layout: default
 img: ipad.png
-ytvideo: https://www.youtube-nocookie.com/embed/7XBdhjgUAJQ
+ytvideo: https://www.youtube-nocookie.com/embed/JCX3WkGmYYI
 category: scm
 title: M.Sc. Services Computing (SCM)
 description: |
