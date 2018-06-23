@@ -1,7 +1,7 @@
 ---
 layout: default
 img: dog.png
-ytvideo: https://www.youtube-nocookie.com/embed/pQQhiXPTQ8s
+ytvideo: https://www.youtube-nocookie.com/embed/ksrHGpGFHjI
 category: dbm
 title: M.Sc. Digital Business Management (DBM)
 description: |
