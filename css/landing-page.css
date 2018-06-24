@@ -161,9 +161,6 @@ footer {
     background-color: #f8f8f8;
 }
 
-footer .row .col-md-4{
-    z-index: 1
-}
 p.copyright {
     margin: 15px 0 0;
 }
@@ -179,6 +176,7 @@ p.copyright {
         transition: all 200ms;
         transform: scale(0);
         transform-origin: bottom right;
+        z-index: 10;
     }
 
     #herman-container.active{
