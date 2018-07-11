@@ -181,6 +181,7 @@ p.copyright {
 
     #herman-container.active{
         transform: scale(1);
+        border: 1px solid #666;
     }
 
     #herman {
@@ -256,3 +257,19 @@ p.copyright {
          max-height: 100vh;
        }
    }
+
+    #loadImg{
+         position:relative;
+    }
+
+    #loadImg div{
+          display:table-cell;
+          width:950px;
+          height:633px;
+          background:#fff;text-align:center;
+          vertical-align:middle;
+    }
+
+    #loadImg img {
+          width: 50%;
+    }
