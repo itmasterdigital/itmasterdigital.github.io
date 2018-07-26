@@ -24,7 +24,7 @@ permalink: pretty
 
 application:
   - title: Bewerben bis 15.Juli 2018
-    icon: address-book
+    icon: fa-calendar
     url: https://hisinone.reutlingen-university.de/
 
 social:
