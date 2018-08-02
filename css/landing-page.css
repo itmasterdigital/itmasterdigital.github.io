@@ -167,9 +167,9 @@ p.copyright {
 
 /*Herman integration*/
 #herman-container {
-        width: 300px;
+        width: 350px;
         max-height: 80vh;
-        height: 400px;
+        height: 450px;
         position: fixed;
         bottom: 0;
         right: 0;
