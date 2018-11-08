@@ -23,9 +23,9 @@ permalink: pretty
 # ----------------------- #
 
 application:
-  - title: Nachrückverfahren Wintersemester 2018/19
+  - title: Bewerben bis 15.Januar 2019
     icon: calendar
-    url: http://www.hhz.de/master/services-computing/
+    url: https://hisinone.reutlingen-university.de/
 
 social:
   - title: Mail
